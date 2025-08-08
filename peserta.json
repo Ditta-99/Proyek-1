@@ -1,0 +1,62 @@
+[
+    {
+        "nama": "Faiz",
+        "email": "faiz@gmail.com",
+        "hp": "5756565846",
+        "alamat": "Cikarang"
+    },
+    {
+        "nama": "dwi",
+        "email": "dwi@gmail.com",
+        "hp": "1223232",
+        "alamat": "Cikarang"
+    },
+    {
+        "nama": "zdn",
+        "email": "zdn@gmail.com",
+        "hp": "11202931",
+        "alamat": "Tambun"
+    },
+    {
+        "nama": "Zyan",
+        "email": "faiz@gmail.com",
+        "hp": "5756565846",
+        "alamat": "Tambun"
+    },
+    {
+        "nama": "hasna",
+        "email": "hasna@gmail.com",
+        "hp": "091920212",
+        "alamat": "Bogor"
+    },
+    {
+        "nama": "nia",
+        "email": "nia@gmail.com",
+        "hp": "1223232",
+        "alamat": "Bekasi"
+    },
+    {
+        "nama": "ayu",
+        "email": "ayu@gmail.com",
+        "hp": "08973291882",
+        "alamat": "Cikampek"
+    },
+    {
+        "nama": "angga",
+        "email": "angga@gmail.com",
+        "hp": "0928391133",
+        "alamat": "Ciputat"
+    },
+    {
+        "nama": "anggita",
+        "email": "anggita@gmail.com",
+        "hp": "0129392112",
+        "alamat": "Tambun"
+    },
+    {
+        "nama": "bayu",
+        "email": "bayu@gmail.com",
+        "hp": "0876539877",
+        "alamat": "Kranji"
+    }
+]
